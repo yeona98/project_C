@@ -1,29 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
-void main()
+void main(void)
 {
-	int number = 0;
+	int data = 0;
+
+	printf("입력값 : ");
+	scanf("%d", &data);
+
+	//
+	printf("출력값 : %d", data);
 	
-	printf("아스키코드로 변환할 숫자를 입력하세요.\n");
-	scanf("%d", &number);
-	
-	printf("input : %d \n", number);
-	printf("output : %c \n", number);
-
-	system("pause");
-}
-*/
-
-void main()
-{
-	int number = 0;
-
-	printf("아스키코드로 변환할 숫자를 입력하세요.\n");
-	printf("input : ");
-	scanf("%d", &number);
-	printf("output : %c \n", number);
-
+	// 계속하려면 아무 키나 누르십시오. 뜨게 만듬.
 	system("pause");
 }

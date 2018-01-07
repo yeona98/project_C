@@ -15,10 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ex05-14%28연습%29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex05-13%28연습%29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="ex05-11.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex15-13.c">
+    <ClCompile Include="ex05-12%28연습%29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex05-12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex05-13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex05-14.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
