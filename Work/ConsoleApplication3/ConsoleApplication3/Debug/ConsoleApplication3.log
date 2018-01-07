@@ -1,0 +1,4 @@
+﻿  ex04-01.c
+c:\users\administrator\desktop\승연\project_start00\work\consoleapplication3\consoleapplication3\ex04-01.c(18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  ConsoleApplication3.vcxproj -> C:\Users\Administrator\Desktop\승연\project_start00\Work\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\Administrator\Desktop\승연\project_start00\Work\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)
