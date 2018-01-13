@@ -15,6 +15,9 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ex06-01%28연습%29.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="ex06-01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
