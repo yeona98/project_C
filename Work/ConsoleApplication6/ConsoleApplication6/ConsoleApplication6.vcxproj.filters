@@ -21,5 +21,14 @@
     <ClCompile Include="ex06-01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="ex06-02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06-03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ex06-05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
