@@ -1,0 +1,8 @@
+﻿  ex12-17.c
+c:\이승연\project_tjoeun\work\consoleapplication12\consoleapplication12\ex12-17.c(8): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\이승연\project_tjoeun\work\consoleapplication12\consoleapplication12\ex12-17.c(12): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\이승연\project_tjoeun\work\consoleapplication12\consoleapplication12\ex12-17.c(13): warning C4013: 'strncat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\이승연\project_tjoeun\work\consoleapplication12\consoleapplication12\ex12-17.c(8): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\이승연\project_tjoeun\work\consoleapplication12\consoleapplication12\ex12-17.c(13): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  ConsoleApplication12.vcxproj -> C:\이승연\project_tjoeun\Work\ConsoleApplication12\Debug\ConsoleApplication12.exe
+  ConsoleApplication12.vcxproj -> C:\이승연\project_tjoeun\Work\ConsoleApplication12\Debug\ConsoleApplication12.pdb (Full PDB)
