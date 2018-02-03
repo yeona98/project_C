@@ -1,5 +1,7 @@
-﻿  ex14-02.c
-c:\이승연\project_tjoeun\work\consoleapplication14\consoleapplication14\ex14-02.c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  ex14-19(답).c
+c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication14\consoleapplication14\ex14-19(답).c(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
-  ConsoleApplication14.vcxproj -> C:\이승연\project_tjoeun\Work\ConsoleApplication14\Debug\ConsoleApplication14.exe
-  ConsoleApplication14.vcxproj -> C:\이승연\project_tjoeun\Work\ConsoleApplication14\Debug\ConsoleApplication14.pdb (Full PDB)
+c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication14\consoleapplication14\ex14-19(답).c(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  ConsoleApplication14.vcxproj -> C:\Users\Administrator\Desktop\이승연\project_tjoeun\Work\ConsoleApplication14\Debug\ConsoleApplication14.exe
+  ConsoleApplication14.vcxproj -> C:\Users\Administrator\Desktop\이승연\project_tjoeun\Work\ConsoleApplication14\Debug\ConsoleApplication14.pdb (Full PDB)

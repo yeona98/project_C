@@ -1,0 +1,15 @@
+﻿  ex17-05(답과작업순서).c
+c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(53): warning C4477: 'printf' : 서식 문자열 '%4d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'DATE'입니다.
+c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(53): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(53): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 2개가 제공되었습니다.
+  c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(53): note: 누락된 variadic 인수 3이(가) 서식 문자열 '%2d'에 필요합니다.
+c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(54): warning C4477: 'printf' : 서식 문자열 '%4d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'DATE'입니다.
+c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(54): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(54): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(54): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%2d'에 필요합니다.
+c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(55): warning C4477: 'printf' : 서식 문자열 '%4d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'DATE'입니다.
+c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(55): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(55): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 3개 필요하지만 1개가 제공되었습니다.
+  c:\users\administrator\desktop\이승연\project_tjoeun\work\consoleapplication17\consoleapplication17\ex17-05(답과작업순서).c(55): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%2d'에 필요합니다.
+  ConsoleApplication17.vcxproj -> C:\Users\Administrator\Desktop\이승연\project_tjoeun\Work\ConsoleApplication17\Debug\ConsoleApplication17.exe
+  ConsoleApplication17.vcxproj -> C:\Users\Administrator\Desktop\이승연\project_tjoeun\Work\ConsoleApplication17\Debug\ConsoleApplication17.pdb (Full PDB)

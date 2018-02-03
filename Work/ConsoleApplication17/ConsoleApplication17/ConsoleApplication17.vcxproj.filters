@@ -15,22 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ex14-01.c">
+    <ClCompile Include="ex17-05%28미완%29.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex14-02.c">
+    <ClCompile Include="ex17-05(답과작업순서).c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ex14-03(답).c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex14-03%28미완%29.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex14-19.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="ex14-19(답).c">
+    <ClCompile Include="ex17-01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
